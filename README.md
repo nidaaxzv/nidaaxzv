@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nida</h1>
-<h3 align="center">A passionate web developer</h3>
-<img src="https://i.pinimg.com/originals/fc/35/ee/fc35eeaab4a2507d2668b895d024119e.gif" width="400" alt="animate" align="center">
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nidamuallimah)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/nidmlh/)
