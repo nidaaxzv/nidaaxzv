@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nida</h1>
 <h3 align="center">A passionate web developer</h3>
+<img src="https://i.pinimg.com/originals/fc/35/ee/fc35eeaab4a2507d2668b895d024119e.gif" width="400" alt="animate" align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nidaaxzv&label=Profile%20views&color=0e75b6&style=flat" alt="nidaaxzv" /> </p>
 
