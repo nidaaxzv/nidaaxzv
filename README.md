@@ -16,3 +16,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nidaaxzv&" alt="nidaaxzv" /></p>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=bashirhanafi.bashirhanafi)
